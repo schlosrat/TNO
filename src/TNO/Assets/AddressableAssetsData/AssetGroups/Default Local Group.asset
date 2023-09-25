@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4d25fb371f16b1344b10af00a260cd2a
+  m_SerializeEntries:
+  - m_GUID: 85d21c6fc100f144788d7d18aad823cf
+    m_Address: tno_fps60.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0dfb73ae38de34a4980d493750176e7f
+    m_Address: tno_fps60.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 7c653fc758d347c47955cacc02f7488b
+    m_Address: tno_fps60_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70d080fe9cc8a094ea1dbcaf3832cb83
+    m_Address: tno_fps400.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a5f8376b7f19a6c4093487418e91db3e
+    m_Address: tno_fps400.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: cbfb5058ef411754ebee6127da410528
+    m_Address: tno_fps400_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fb996875aa9db2141975a7a74433526d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0d8b09b1bb59e8344aec5d82b14d92c7, type: 2}
+    - {fileID: 11400000, guid: da52b35e3119f934eba5388376222af3, type: 2}
