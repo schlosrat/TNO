@@ -1,0 +1,11 @@
+Key,Type,Desc,English
+,,,
+Parts/Title/tno_fps60,Text,,FPS-60 Fission Power System
+Parts/Subtitle/tno_fps60,Text,,Fission Reactor
+Parts/Manufacturer/tno_fps60,Text,,Acme Fission / Fusion
+Parts/Description/tno_fps60,Text,,"Tiny, but mighty. The FPS-60 packs a lot into it's Size XS (0.625m-class) frame. With this gadget on board, you'll have EC to spare, plus it doubles as a space heater for those long cold Duna nights. If you're not getting 60 FPS, then you need TNO!."
+,,,
+Parts/Title/tno_fps400,Text,,FPS-400 Fission Power System
+Parts/Subtitle/tno_fps400,Text,,Fission Reactor
+Parts/Manufacturer/tno_fps400,Text,,Acme Fission / Fusion
+Parts/Description/tno_fps400,Text,,"When you need some serious power generation in a handy Size Small package, then reach for the FPS-400! Desined as an in-line module, the FPS-400 stacks with other 1.25m-class parts fitting easily into your design - plus it has handy Roast and Broil settings! Isn't it time you opted for the Nuclear Option?"
