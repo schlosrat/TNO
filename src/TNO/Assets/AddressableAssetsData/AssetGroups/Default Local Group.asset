@@ -39,6 +39,32 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - parts_data
+  - m_GUID: c554e42ed8110c54897ed2e1dfaae2e7
+    m_Address: tno_fps400_open_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25a0adaa743ff484ea418fffd4ba1e61
+    m_Address: tno_fps60_open.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18847015087a7334ab9a830c26a65d3c
+    m_Address: tno_fps60_open.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 66e39648fe281d04695334d2e2c688e8
+    m_Address: tno_fps400_open.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 156983b7323ee7041bad6d7e0a9b817c
+    m_Address: tno_fps60_open_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9491c3a5d9028b479eb3ce2dc2a697b
+    m_Address: tno_fps400_open.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   - m_GUID: cbfb5058ef411754ebee6127da410528
     m_Address: tno_fps400_icon.png
     m_ReadOnly: 0

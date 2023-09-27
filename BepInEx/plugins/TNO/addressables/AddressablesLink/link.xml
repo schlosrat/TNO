@@ -23,11 +23,10 @@
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.MeshCollider" preserve="all" />
-    <type fullname="UnityEngine.BoxCollider" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="KSP.CorePartData" preserve="all" />
     <type fullname="KSP.Modules.Module_Color" preserve="all" />
+    <type fullname="KSP.CorePartData" preserve="all" />
     <type fullname="KSP.Modules.Module_Drag" preserve="all" />
     <type fullname="KSP.Modules.Module_ResourceCapacities" preserve="all" />
     <type fullname="KSP.Modules.Module_ResourceConverter" preserve="all" />
