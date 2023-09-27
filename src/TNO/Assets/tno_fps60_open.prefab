@@ -879,7 +879,7 @@ MonoBehaviour:
       explosionPotential: 7.22
       fuelCrossFeed: 1
       heatConductivity: 0.12
-      mass: 0.115
+      mass: 0.145
       maxTemp: 600
       attachRules:
         stack: 1
@@ -919,8 +919,8 @@ MonoBehaviour:
         isCompoundJoint: 0
       resourceContainers:
       - name: Uranium
-        capacityUnits: 0.15
-        initialUnits: 0.15
+        capacityUnits: 0.12
+        initialUnits: 0.12
         NonStageable: 0
       - name: ElectricCharge
         capacityUnits: 30
@@ -1073,7 +1073,7 @@ MonoBehaviour:
     - InternalName: FissionReactor
       FormulaLocalizationKey: PartModules/ResourceConverter/Formulas/FissionReactor
       InputResources:
-      - Rate: 0.000000084375
+      - Rate: 0.000000005080891
         ResourceName: Uranium
         AcceptanceThreshold: 0.01
       OutputResources:

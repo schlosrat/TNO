@@ -51,7 +51,7 @@
     "explosionPotential": 7.22,
     "fuelCrossFeed": true,
     "heatConductivity": 0.12,
-    "mass": 0.115,
+    "mass": 0.145,
     "maxTemp": 600.0,
     "attachRules": {
       "stack": true,
@@ -98,8 +98,8 @@
     "resourceContainers": [
       {
         "name": "Uranium",
-        "capacityUnits": 0.15,
-        "initialUnits": 0.15,
+        "capacityUnits": 0.12,
+        "initialUnits": 0.12,
         "NonStageable": false
       },
       {
@@ -327,7 +327,7 @@
                   "FormulaLocalizationKey": "PartModules/ResourceConverter/Formulas/FissionReactor",
                   "InputResources": [
                     {
-                      "Rate": 8.4375E-08,
+                      "Rate": 5.080891E-09,
                       "ResourceName": "Uranium",
                       "AcceptanceThreshold": 0.01
                     }
