@@ -5,7 +5,7 @@
   "name": "The Nuclear Option (TNO)",
   "description": "When solar power, batteris, and fuel cells just can't cut it, turn to TNO",
   "source": "https://github.com/schlosrat/TNO",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "version_check": "https://raw.githubusercontent.com/schlosrat/TNO/main/TNO/swinfo.json",
   "ksp2_version": {
     "min": "0.1.4",
