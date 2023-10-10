@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/BepInEx/
+/Releases/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -55,6 +57,7 @@ src/TNO/Library
 src/TNO/Logs
 src/TNO/Packages
 src/TNO/Temp
+*.bundles
 
 # Unity3D generated meta files
 *.pidb.meta
