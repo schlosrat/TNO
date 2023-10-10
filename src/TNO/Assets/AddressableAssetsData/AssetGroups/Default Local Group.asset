@@ -69,6 +69,45 @@ MonoBehaviour:
     m_Address: tno_fps400_icon.png
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: ace5a014c934338459ac291e9dfabb53
+    m_Address: tno_fps1000.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0fe7d399a770d043a77d95e2d232a4d
+    m_Address: tno_fps2000.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 87ed4f7f095875a4baa3a3d5054c74ea
+    m_Address: tno_fps1000_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53294f766e45b7541a6f378a94f823fb
+    m_Address: tno_fps1000.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 364893c6f1f5b5a46ad10f29a1a66eda
+    m_Address: tno_fps2000.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f23effdcd69ea8a408ebad021edc1ddb
+    m_Address: tno_fps2000_open.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 046d327276d5aad4ea6f0f60a9b10102
+    m_Address: tno_fps2000_open.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - parts_data
+  - m_GUID: 071078468f776b4429bff4383a0b7672
+    m_Address: tno_fps2000_open_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae0658aefc69d064badc8d994cbfc159
+    m_Address: tno_fps2000_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: fb996875aa9db2141975a7a74433526d, type: 2}
   m_SchemaSet:

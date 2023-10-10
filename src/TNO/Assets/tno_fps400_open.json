@@ -3,7 +3,7 @@
   "useExternal": false,
   "data": {
     "partName": "tno_fps400_open",
-    "author": "Schlosrat",
+    "author": "schlosrat",
     "category": "Electrical",
     "family": "0490-Generator",
     "childStageOffset": 0,
@@ -16,7 +16,7 @@
     "resourceCosts": [],
     "tags": "",
     "stagingIconAssetAddress": "",
-    "PartSizeDiameter": 0.625,
+    "PartSizeDiameter": 1.25,
     "angularDrag": 1.0,
     "breakingForce": 50.0,
     "breakingTorque": 50.0,

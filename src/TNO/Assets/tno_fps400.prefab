@@ -894,7 +894,7 @@ MonoBehaviour:
     useExternal: 0
     data:
       partName: tno_fps400
-      author: Schlosrat
+      author: schlosrat
       category: 10
       family: 0490-Generator
       childStageOffset: 0
@@ -907,7 +907,7 @@ MonoBehaviour:
       resourceCosts: []
       tags: 
       stagingIconAssetAddress: 
-      PartSizeDiameter: 0.625
+      PartSizeDiameter: 1.25
       angularDrag: 1
       breakingForce: 50
       breakingTorque: 50

@@ -851,7 +851,7 @@ MonoBehaviour:
     useExternal: 0
     data:
       partName: tno_fps60_open
-      author: Schlosrat
+      author: schlosrat
       category: 10
       family: 0490-Generator
       childStageOffset: 0
