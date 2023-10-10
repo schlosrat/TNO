@@ -21,10 +21,10 @@ Download and extract this mod into the game folder. From the TNO-x.x.x.zip file 
 Optional: Download and install Lux's OAB Extensions (see link above). From the zip file copy the BepInEx folder on top of your game's install folder. If done correctly, you should have the following folder structure within your KSP2 game folder: ...\Kerbal Space Program 2\BepInEx\plugins\LuxsOABExtensions.
 Or, make things even easier and just use CKAN!
 
-##Fission Power Systems
+## Fission Power Systems
 Compact, and built for in-line integration, these reactors are the answer to your high power needs even in photo-deficient space environments.
 
-* FPS-60: Tiny, but mighty. The FPS-60 packs a lot into its Size XS (0.625m-class) frame. With this gadget on board, you'll have EC to spare, plus it doubles as a space heater for those long cold Duna nights. If you're not getting 60 FPS, then you need TNO!
-
-
-* FPS-400: When you need some serious power generation in a handy Size Small package, then reach for the FPS-400! Designed as an in-line module, the FPS-400 stacks with other 1.25m-class parts fitting easily into your design - plus it has handy Roast and Broil settings! Isn't it time you opted for the Nuclear Option?
+* **FPS-60**: Tiny, but mighty. The FPS-60 packs a lot into its Size XS (0.625m-class) frame. With this gadget on board, you'll have EC to spare, plus it doubles as a space heater for those long cold Duna nights. If you're not getting 60 FPS, then you need TNO!
+* **FPS-400**: When you need some serious power generation in a handy Size Small package, then reach for the FPS-400! Designed as either a stackable 'In-line' or end-of-stack 'Open' module, the FPS-400 fits in easily with other 1.25m-class parts in your design - plus it has a handy popcorn setting! Isn't it time you opted for the Nuclear Option?
+* **FPS-1000**: Designed exclusively for in-line applications, the FPS-1000 delivers MW-class power (1000 EC/s) in a compact 2.5m frame utilizing counter-rotating turbines for no net torque applied to your craft, but plenty of net EC! Check out the Roast and Broil settings! Isn't it time you opted for the Nuclear Option?
+* **FPS-2000**: For our more serious customers in need of serious power (you're one, right?), we're proud to offer the FPS-2000. Available in either stackable 'In-line' or end-of-stack 'Open' configurations, there's sure to be one to fit your needs. Warranty void if used on Flambe setting... Isn't it time you opted for the Nuclear Option?
