@@ -22,7 +22,7 @@ Optional: Download and install Lux's OAB Extensions (see link above). From the z
 Or, make things even easier and just use CKAN!
 
 ## Fission Power Systems
-Compact, and built for in-line integration, these reactors are the answer to your high power needs even in photo-deficient space environments.
+Compact, and built for either stackable 'In-line' or end-of-stack 'Open' configurations, these reactors are the answer to your high power needs even in photon-deficient space environments.
 
 * **FPS-60**: Tiny, but mighty. The FPS-60 packs a lot into its Size XS (0.625m-class) frame. With this gadget on board, you'll have EC to spare, plus it doubles as a space heater for those long cold Duna nights. If you're not getting 60 FPS, then you need TNO!
 * **FPS-400**: When you need some serious power generation in a handy Size Small package, then reach for the FPS-400! Designed as either a stackable 'In-line' or end-of-stack 'Open' module, the FPS-400 fits in easily with other 1.25m-class parts in your design - plus it has a handy popcorn setting! Isn't it time you opted for the Nuclear Option?
