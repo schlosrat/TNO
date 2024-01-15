@@ -55,7 +55,7 @@
     "maxTemp": 600.0,
     "attachRules": {
       "stack": true,
-      "srfAttach": true,
+      "srfAttach": false,
       "allowStack": true,
       "allowSrfAttach": true,
       "allowCollision": true,
@@ -255,42 +255,6 @@
                 "w": 1.0
               },
               "UpdateExposedArea": false,
-              "DragForceDirection": {
-                "ContextKey": "DragForceDirection",
-                "storedValue": {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0.0
-                }
-              },
-              "DragForceMagnitude": {
-                "ContextKey": "DragForceMagnitude",
-                "storedValue": 0.0
-              },
-              "LiftForceDirection": {
-                "ContextKey": "LiftForceDirection",
-                "storedValue": {
-                  "x": 0.0,
-                  "y": 0.0,
-                  "z": 0.0
-                }
-              },
-              "LiftForceMagnitude": {
-                "ContextKey": "LiftForceMagnitude",
-                "storedValue": 0.0
-              },
-              "ReferenceArea": {
-                "ContextKey": "ReferenceArea",
-                "storedValue": 0.0
-              },
-              "ExposedArea": {
-                "ContextKey": "ExposedArea",
-                "storedValue": 0.0
-              },
-              "TotalArea": {
-                "ContextKey": "TotalArea",
-                "storedValue": 0.0
-              },
               "ModuleType": "KSP.Modules.Module_Drag, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
               "DataType": "KSP.Modules.Data_Drag, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
               "IsActiveInStagingProp": {
@@ -324,22 +288,6 @@
               "Mode": {
                 "ContextKey": "Mode",
                 "storedValue": ""
-              },
-              "statusTxt": {
-                "ContextKey": "statusTxt",
-                "storedValue": "Inactive"
-              },
-              "InputTxt": {
-                "ContextKey": "InputTxt",
-                "storedValue": ""
-              },
-              "OutputTxt": {
-                "ContextKey": "OutputTxt",
-                "storedValue": ""
-              },
-              "HeatGenerated": {
-                "ContextKey": "HeatGenerated",
-                "storedValue": 0.0
               },
               "conversionState": "Inactive",
               "HasEnoughResources": true,
@@ -478,6 +426,7 @@
     "skinInternalConductionMult": 1.0,
     "thermalMassModifier": 1.0,
     "buoyancyUseCubeNamed": "",
+    "HasReportStorage": false,
     "oabEditorCategory": "ALL",
     "partType": "Rocket",
     "PreferredOrientation": "NONE",

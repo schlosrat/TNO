@@ -1,0 +1,19 @@
+{
+  "spec": "2.0",
+  "mod_id": "com.github.schlosrat.TNO",
+  "name": "The Nuclear Option (TNO)",
+  "author": "schlosrat",
+  "description": "When solar power, batteris, and fuel cells just can't cut it, you need TNO!",
+  "source": "https://github.com/schlosrat/TNO",
+  "version": "0.3.0",
+  "dependencies": [
+    {
+      "id": "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.8.0",
+        "max": "*"
+      }
+    }
+  ],
+  "conflicts": []
+}

@@ -15,102 +15,11 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 4d25fb371f16b1344b10af00a260cd2a
-  m_SerializeEntries:
-  - m_GUID: 85d21c6fc100f144788d7d18aad823cf
-    m_Address: tno_fps60.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 0dfb73ae38de34a4980d493750176e7f
-    m_Address: tno_fps60.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 7c653fc758d347c47955cacc02f7488b
-    m_Address: tno_fps60_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 70d080fe9cc8a094ea1dbcaf3832cb83
-    m_Address: tno_fps400.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: a5f8376b7f19a6c4093487418e91db3e
-    m_Address: tno_fps400.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: c554e42ed8110c54897ed2e1dfaae2e7
-    m_Address: tno_fps400_open_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 25a0adaa743ff484ea418fffd4ba1e61
-    m_Address: tno_fps60_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 18847015087a7334ab9a830c26a65d3c
-    m_Address: tno_fps60_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 66e39648fe281d04695334d2e2c688e8
-    m_Address: tno_fps400_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 156983b7323ee7041bad6d7e0a9b817c
-    m_Address: tno_fps60_open_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: d9491c3a5d9028b479eb3ce2dc2a697b
-    m_Address: tno_fps400_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: cbfb5058ef411754ebee6127da410528
-    m_Address: tno_fps400_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: ace5a014c934338459ac291e9dfabb53
-    m_Address: tno_fps1000.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: f0fe7d399a770d043a77d95e2d232a4d
-    m_Address: tno_fps2000.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 87ed4f7f095875a4baa3a3d5054c74ea
-    m_Address: tno_fps1000_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 53294f766e45b7541a6f378a94f823fb
-    m_Address: tno_fps1000.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 364893c6f1f5b5a46ad10f29a1a66eda
-    m_Address: tno_fps2000.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: f23effdcd69ea8a408ebad021edc1ddb
-    m_Address: tno_fps2000_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 046d327276d5aad4ea6f0f60a9b10102
-    m_Address: tno_fps2000_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-  - m_GUID: 071078468f776b4429bff4383a0b7672
-    m_Address: tno_fps2000_open_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: ae0658aefc69d064badc8d994cbfc159
-    m_Address: tno_fps2000_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_GUID: 5ea836bf7ec41a347bd2589101b8f290
+  m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: fb996875aa9db2141975a7a74433526d, type: 2}
+  m_Settings: {fileID: 11400000, guid: e6f3fa4bc1bdaf64782cd9f7bba5c7d3, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0d8b09b1bb59e8344aec5d82b14d92c7, type: 2}
-    - {fileID: 11400000, guid: da52b35e3119f934eba5388376222af3, type: 2}
+    - {fileID: 11400000, guid: 629569eb9429ec948abfb72302596ec5, type: 2}
+    - {fileID: 11400000, guid: 97eaf91dfb4779044a6bb5a6c7b99314, type: 2}

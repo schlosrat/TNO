@@ -1,0 +1,4 @@
+:science #tNode_3v_electronics_02 {
+  UnlockedPartsIDs +: [ "tno_fps60","tno_fps60_open","tno_fps400","tno_fps400_open","tno_fps1000","tno_fps2000","tno_fps2000_open" ];
+  UnlockedPartsIDs -: [ "" ];
+}
