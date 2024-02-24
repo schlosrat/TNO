@@ -1,0 +1,18 @@
+@new(spring_cleaning, tno_fps60_open_cleanup)
+:json {
+  PartId: tno_fps60_open;
+  Hidden: true;
+  Toggleable: false;
+}
+@new(spring_cleaning, tno_fps400_open_cleanup)
+:json {
+  PartId: tno_fps400_open;
+  Hidden: true;
+  Toggleable: false;
+}
+@new(spring_cleaning, tno_fps2000_open_cleanup)
+:json {
+  PartId: tno_fps2000_open;
+  Hidden: true;
+  Toggleable: false;
+}

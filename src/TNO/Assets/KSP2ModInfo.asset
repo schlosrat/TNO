@@ -29,7 +29,10 @@ MonoBehaviour:
   - Id: PatchManager
     Min: 0.9.1
     Max: '*'
-  - Id: VSift
+  - Id: VSwift
     Min: 0.3.0
+    Max: '*'
+  - Id: SpringCleaning
+    Min: 0.1.0
     Max: '*'
   incompatibilities: []
