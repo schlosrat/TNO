@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: com_github_schlosrat_TNO
   m_Data:
     m_SerializedData: []
-  m_GUID: 128822e4107c7224b91eab7758a6051a
+  m_GUID: 931d562a04eee4944ae3929dce893f57
   m_SerializeEntries:
   - m_GUID: 0dfb73ae38de34a4980d493750176e7f
     m_Address: tno_fps60.json
@@ -33,22 +33,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 18847015087a7334ab9a830c26a65d3c
-    m_Address: tno_fps60_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 25a0adaa743ff484ea418fffd4ba1e61
-    m_Address: tno_fps60_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 156983b7323ee7041bad6d7e0a9b817c
-    m_Address: tno_fps60_open_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a5f8376b7f19a6c4093487418e91db3e
     m_Address: tno_fps400.json
     m_ReadOnly: 0
@@ -62,22 +46,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cbfb5058ef411754ebee6127da410528
     m_Address: tno_fps400_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 66e39648fe281d04695334d2e2c688e8
-    m_Address: tno_fps400_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d9491c3a5d9028b479eb3ce2dc2a697b
-    m_Address: tno_fps400_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c554e42ed8110c54897ed2e1dfaae2e7
-    m_Address: tno_fps400_open_icon.png
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -113,25 +81,9 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 046d327276d5aad4ea6f0f60a9b10102
-    m_Address: tno_fps2000_open.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - parts_data
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f23effdcd69ea8a408ebad021edc1ddb
-    m_Address: tno_fps2000_open.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 071078468f776b4429bff4383a0b7672
-    m_Address: tno_fps2000_open_icon.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: e6f3fa4bc1bdaf64782cd9f7bba5c7d3, type: 2}
+  m_Settings: {fileID: 11400000, guid: 02b20b2fbe134274bad47b8721feaa2f, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 4e3f79d1e91735140b6204bc0f1ffdb0, type: 2}
-    - {fileID: 11400000, guid: b73ec06275493ea4984990b159b568e7, type: 2}
+    - {fileID: 11400000, guid: 2ecada3ac3802aa49b98f38e28395207, type: 2}
+    - {fileID: 11400000, guid: 7166f579ffc65d34ba453db74a3c5a80, type: 2}

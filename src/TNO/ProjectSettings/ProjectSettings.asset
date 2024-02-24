@@ -133,7 +133,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.2.0.0
+  bundleVersion: 0.2.1.0
   preloadedAssets:
   - {fileID: 6007, guid: 58ebbc61403de6d29185d600e7da0b81, type: 2}
   metroInputSource: 1
@@ -246,7 +246,7 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: c0afd0d1d80e3634a9dac47e8a0426ea
-  templatePackageId: com.unity.template.3d@5.0.4
+  templatePackageId: com.unity.template.3d@8.1.1
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -260,7 +260,7 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: {inproject}: {inproject}: '
+  AndroidKeystoreName: '{inproject}: '
   AndroidKeyaliasName: 
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
@@ -325,9 +325,9 @@ PlayerSettings:
     m_GraphicsJobs: 0
   m_BuildTargetGraphicsJobMode:
   - m_BuildTarget: PS4Player
-    m_GraphicsJobMode: 274464
+    m_GraphicsJobMode: 1879193216
   - m_BuildTarget: XboxOnePlayer
-    m_GraphicsJobMode: 274464
+    m_GraphicsJobMode: 1879193216
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
@@ -370,8 +370,16 @@ PlayerSettings:
     m_EncodingQuality: 2
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
-  m_BuildTargetNormalMapEncoding: []
-  m_BuildTargetDefaultTextureCompressionFormat: []
+  m_BuildTargetNormalMapEncoding:
+  - m_BuildTarget: Android
+    m_Encoding: 1
+  - m_BuildTarget: iPhone
+    m_Encoding: 1
+  - m_BuildTarget: tvOS
+    m_Encoding: 1
+  m_BuildTargetDefaultTextureCompressionFormat:
+  - m_BuildTarget: Android
+    m_Format: 3
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -631,19 +639,19 @@ PlayerSettings:
   webGLMemoryGeometricGrowthCap: 96
   webGLPowerPreference: 2
   scriptingDefineSymbols:
-    Android: TK_ADDRESSABLE
-    EmbeddedLinux: TK_ADDRESSABLE
-    GameCoreXboxOne: TK_ADDRESSABLE
-    Nintendo Switch: TK_ADDRESSABLE
-    PS4: TK_ADDRESSABLE
-    PS5: TK_ADDRESSABLE
-    QNX: TK_ADDRESSABLE
-    Stadia: TK_ADDRESSABLE
-    Standalone: TK_ADDRESSABLE
-    VisionOS: TK_ADDRESSABLE
-    WebGL: TK_ADDRESSABLE
-    XboxOne: TK_ADDRESSABLE
-    tvOS: TK_ADDRESSABLE
+    Android: KSP2_X64;TK_ADDRESSABLE
+    EmbeddedLinux: KSP2_X64;TK_ADDRESSABLE
+    GameCoreXboxOne: KSP2_X64;TK_ADDRESSABLE
+    Nintendo Switch: KSP2_X64;TK_ADDRESSABLE
+    PS4: KSP2_X64;TK_ADDRESSABLE
+    PS5: KSP2_X64;TK_ADDRESSABLE
+    QNX: KSP2_X64;TK_ADDRESSABLE
+    Stadia: KSP2_X64;TK_ADDRESSABLE
+    Standalone: KSP2_X64;TK_ADDRESSABLE
+    VisionOS: KSP2_X64;TK_ADDRESSABLE
+    WebGL: KSP2_X64;TK_ADDRESSABLE
+    XboxOne: KSP2_X64;TK_ADDRESSABLE
+    tvOS: KSP2_X64;TK_ADDRESSABLE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: KSP2UTSettings
   m_EditorClassIdentifier: 
   ignoredFiles: []
-  savedBuildPath: F:/KSP2Mods/TNO/TNO/com.github.schlosrat.TNO.zip
+  savedBuildPath: F:/KSP2Mods/TNO/Releases/TNO_0.4.0.zip
   savedBuildMode: Everything
-  savedModAddressablesPath: 
-  savedKsp2Path: 
+  savedModAddressablesPath: F:/Kerbal Space Program 2 Debug/BepInEx/plugins/TNO
+  savedKsp2Path: F:/Kerbal Space Program 2 Debug/KSP2_x64.exe

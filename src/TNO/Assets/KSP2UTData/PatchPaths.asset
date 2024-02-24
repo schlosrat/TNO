@@ -19,9 +19,7 @@ MonoBehaviour:
   - tno_fps400_open
   - tno_fps1000
   - tno_fps2000
-  - tno_fps2000_open
   Values:
-  - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch
   - plugin_template/patches/%NAME%.patch

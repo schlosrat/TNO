@@ -93,36 +93,6 @@
         "contactArea": 0.0,
         "overrideDragArea": 0.0,
         "isCompoundJoint": false
-      },
-      {
-        "nodeID": "top",
-        "NodeSymmetryGroupID": "",
-        "nodeType": "Stack",
-        "attachMethod": "FIXED_JOINT",
-        "IsMultiJoint": false,
-        "MultiJointMaxJoint": 3,
-        "MultiJointRadiusOffset": 0.625,
-        "MultiJointOnSingleAxis": false,
-        "SingleJointAxis": "X",
-        "MultiJointFullBreakStrength": false,
-        "position": {
-          "x": 0.0,
-          "y": 2.0,
-          "z": 0.0
-        },
-        "orientation": {
-          "x": 0.0,
-          "y": 1.0,
-          "z": 0.0
-        },
-        "size": 0,
-        "visualSize": 0.0,
-        "isResourceCrossfeed": true,
-        "isRigid": false,
-        "angularStrengthMultiplier": 0.0,
-        "contactArea": 0.0,
-        "overrideDragArea": 0.0,
-        "isCompoundJoint": false
       }
     ],
     "resourceContainers": [

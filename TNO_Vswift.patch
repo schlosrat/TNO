@@ -1,0 +1,103 @@
+@use "VSwift:*";
+:parts #tno_fps60 {
+    @include part-switch() {
+        +TrussState {
+            VariantSetLocalizationKey: "TNO/TrussState";
+            +Open {
+                VariantLocalizationKey: "TNO/Open";
+            }
+            +Closed {
+                VariantLocalizationKey: "TNO/Closed";
+                +TransformActivator {
+                    Transforms: ["fps-60_top"];
+                }
+                +AttachNodeAdder {
+                    +top {
+                        size: 0;
+                        "position": {
+                            x: 0.0,
+                            y: 0.965,
+                            z: 0.0
+                        };
+                        "orientation": {
+                            x: 0.0,
+                            y: 1.0,
+                            z: 0.0
+                        };
+                    }
+                }
+                +MassModifier {
+                    Modifier: 0.022; /* your truss weight in tons */
+                }
+            }
+        }
+    }
+}
+:parts #tno_fps400 {
+    @include part-switch() {
+        +TrussState {
+            VariantSetLocalizationKey: "TNO/TrussState";
+            +Open {
+                VariantLocalizationKey: "TNO/Open";
+            }
+            +Closed {
+                VariantLocalizationKey: "TNO/Closed";
+                +TransformActivator {
+                    Transforms: ["fps-400_top"];
+                }
+                +AttachNodeAdder {
+                    +top {
+                        size: 0;
+                        "position": {
+                            x: 0.0,
+                            y: 2.0,
+                            z: 0.0
+                        };
+                        "orientation": {
+                            x: 0.0,
+                            y: 1.0,
+                            z: 0.0
+                        };
+                    }
+                }
+                +MassModifier {
+                    Modifier: 0.12; /* your truss weight in tons */
+                }
+            }
+        }
+    }
+}
+:parts #tno_fps2000 {
+    @include part-switch() {
+        +TrussState {
+            VariantSetLocalizationKey: "TNO/TrussState";
+            +Open {
+                VariantLocalizationKey: "TNO/Open";
+            }
+            +Closed {
+                VariantLocalizationKey: "TNO/Closed";
+                +TransformActivator {
+                    Transforms: ["fps-2000_top"];
+                }
+                +AttachNodeAdder {
+                    +top {
+                        size: 0;
+                        "position": {
+                            x: 0.0,
+                            y: 4.02,
+                            z: 0.0
+                        };
+                        "orientation": {
+                            x: 0.0,
+                            y: 1.0,
+                            z: 0.0
+                        };
+                    }
+                }
+                +MassModifier {
+                    Modifier: 0.51; /* your truss weight in tons */
+                }
+            }
+        }
+    }
+}
