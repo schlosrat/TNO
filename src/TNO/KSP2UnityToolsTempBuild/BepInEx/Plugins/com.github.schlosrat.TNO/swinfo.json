@@ -32,6 +32,13 @@
         "min": "0.3.0",
         "max": "*"
       }
+    },
+    {
+      "id": "SpringCleaning",
+      "version": {
+        "min": "0.1.0",
+        "max": "*"
+      }
     }
   ],
   "conflicts": []
