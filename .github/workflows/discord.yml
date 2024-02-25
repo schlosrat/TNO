@@ -1,7 +1,7 @@
 name: Update Discord Topic
 
 env:
-  MOD_DISCORD_THREAD_ID: "1201143568274821210" # It should be quoted to prevent YAML from interpreting it as an integer
+  MOD_DISCORD_THREAD_ID: "1211294372574924970" # It should be quoted to prevent YAML from interpreting it as an integer
 
 on:
   workflow_dispatch:
@@ -44,6 +44,6 @@ jobs:
           webhook-url: ${{ secrets.DISCORD_KMS_WEBHOOK_URL }}
           content: ${{ env.discord_message }}
           thread-id: ${{ env.MOD_DISCORD_THREAD_ID }}
-          username: "Flight Plan"
+          username: "The Nuclear Option (TNO)"
           avatar-url: "https://avatars.githubusercontent.com/u/98559431?s=200&v=4"
           
